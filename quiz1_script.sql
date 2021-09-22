@@ -1,0 +1,4 @@
+CREATE TABLE quiz2 AS
+(SELECT * FROM quiz1);
+CREATE TABLE quiz2 AS
+(SELECT * FROM quiz2);
